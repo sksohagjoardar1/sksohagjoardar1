@@ -50,7 +50,7 @@ Programmer | Content Creator | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sksohagjoardar1.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.heroku.app/graph?username=sksohagjoardar1&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/sksohagjoardar1/github-readme-activity-graph)
+[![Sohag's github activity graph](https://activity-graph.heroku.app/graph?username=sksohagjoardar1&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/sksohagjoardar1/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,9 +70,9 @@ Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da
 </p>
 
 [website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[facebook]: https://facebook.com/
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
+[telegram]: https://t.me/
